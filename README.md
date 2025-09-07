@@ -8,6 +8,10 @@
 📚 Currently learning Python and embedded systems design.<br/>
 🚀Always curious about new technologies and open to collaboration.<br/>
  "Innovation is the best when it Bridges the gap between imagination and reality."<br/>
+ 
+#🌐Check out my portfolio: 
+ 👉 [https://OjulaRoseline.github.io/my-portfolio/](https://OjulaRoseline.github.io/my-portfolio/)  
+
 
  🛠️Languages & Tools.<br/>
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
