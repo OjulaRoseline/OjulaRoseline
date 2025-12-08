@@ -50,6 +50,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OjulaRoseline&layout=compact&theme=radical) 
 
 🔥Streak stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OjulaRoseline&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=OjulaRoseline&theme=tokyonight)
+
+
 
 
