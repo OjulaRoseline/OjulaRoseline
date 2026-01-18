@@ -4,8 +4,8 @@
 🌍Based in Kenya,aiming to work across the continent in future.<br/>
 💻Exploring software plus hardware intergration.<br/>
 ⚙️Interested in IoT systems,smart devices and automation projects.<br/>
-🖥️Learning to develop web pages and applications.<br/>
-📚 Currently learning Python and embedded systems design.<br/>
+🖥️fullstack software developer.<br/>
+📚 currently learning embedded systems design.<br/>
 🚀Always curious about new technologies and open to collaboration.<br/>
  "Innovation is the best when it Bridges the gap between imagination and reality."<br/>
  
